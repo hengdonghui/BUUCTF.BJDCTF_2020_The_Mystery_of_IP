@@ -70,11 +70,11 @@ Your IP is : 192.168.122.15
 X-Forwarded-For: 1.2.3.4
 ```
 
-![01](./01.png)
+![](https://raw.gitcode.com/hengdonghui/pic-blog/raw/main/01_IP.png)
 
 点击 HackBar 的 Execute 按钮，页面显示：
 
-![02](./02.png)
+![](https://raw.gitcode.com/hengdonghui/pic-blog/raw/main/02_IP.png)
 
 **结论**：
 
